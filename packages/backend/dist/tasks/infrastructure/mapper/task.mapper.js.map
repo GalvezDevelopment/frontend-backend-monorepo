@@ -1,0 +1,1 @@
+{"version":3,"file":"task.mapper.js","sourceRoot":"","sources":["../../../../src/tasks/infrastructure/mapper/task.mapper.ts"],"names":[],"mappings":";;;AAGA,MAAa,UAAU;IACnB,MAAM,CAAC,iBAAiB,CAAC,EAAE,EAAE,EAAE,IAAI,EAAE,QAAQ,EAAE,YAAY,EAAc;QACrE,OAAO,EAAE,EAAE,EAAE,IAAI,EAAE,QAAQ,EAAE,YAAY,EAAE,CAAC;IAChD,CAAC;CACJ;AAJD,gCAIC"}
